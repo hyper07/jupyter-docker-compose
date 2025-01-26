@@ -37,7 +37,7 @@ docker compose up
 
 After running this command, the Jupyter Notebook server should be accessible at
 
-`http://localhost:8888`.
+`http://localhost:8888`
 
 ## Using GitHub Code Spaces
 
